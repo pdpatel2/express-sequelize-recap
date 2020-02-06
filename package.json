@@ -1,0 +1,21 @@
+{
+  "name": "express-sequelize-review",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chalk": "^1.1.3",
+    "express": "^4.16.2",
+    "fs-misc": "^2.0.0",
+    "morgan": "^1.9.0",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.37.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
